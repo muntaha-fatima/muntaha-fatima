@@ -1,39 +1,36 @@
-# Hi there! 👋 I'm Seerat Fatima
+# 👋 Hello, I'm **Muntaha Fatima**
 
-🌼 Frontend Developer | React & Next.js Enthusiast | UI Lover  
-📍 From Pakistan | 💻 Love clean, responsive web designs
-
----
-
-## 🚀 Skills & Tools
-- HTML, CSS, JavaScript
-- React, Next.js, Tailwind CSS
-- Git & GitHub
+🌸 *Frontend Developer passionate about clean code and intuitive UI/UX design.*
 
 ---
 
-## 🌱 Learning Journey
-- TypeScript
-- UI/UX Design Fundamentals
-- Framer Motion Animations
+## 🔧 Tech Stack
+
+- ⚛️ **React**, **Next.js**
+- 🎨 **Tailwind CSS**, **CSS3**
+- 💻 Git & GitHub
 
 ---
 
-## 💼 Projects I'm Proud Of
-- ✨ [Personal Portfolio](https://github.com/muntaha-fatima/portfolio)
-- 📝 [To-Do List App](https://github.com/muntaha-fatima/todo-app)
-- 📦 [Component Library](https://github.com/muntaha-fatima/ui-components)
+## 🌱 *Currently Learning*
+
+1. 📘 **TypeScript**
+2. ✨ **Framer Motion**
+3. 🎯 UX Thinking
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Seerat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=tokyonight)
+![My Stats](https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical)
 
 ---
 
-## 📬 Let's Connect!
-- Email: seerat.fatima@example.com
+### Contact
+
+- 📧 Email: [muntaha@example.com](mailto:muntaha@example.com)
+- 🌐 Portfolio: [www.muntahaf.com](https://www.muntahaf.com)
+
 - LinkedIn: [linkedin.com/in/seeratfatima](https://linkedin.com)
 
 ---
