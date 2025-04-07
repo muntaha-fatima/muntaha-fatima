@@ -28,7 +28,7 @@
 
 ### Contact
 
-- 📧 Email: [muntaha@example.com](mailto:muntaha@example.com)
+- 📧 Email: [shazsabir6@gmail.com](mshazsabir6@gmaile.com)
 - 🌐 Portfolio: [www.muntahaf.com](https://www.muntahaf.com)
 
 - LinkedIn: [linkedin.com/in/seeratfatima](https://linkedin.com)
