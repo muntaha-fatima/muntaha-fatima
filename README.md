@@ -1,42 +1,37 @@
-# 👋 Hello, I'm **Seerat Fatima**
+# 👋 **Hey there! I'm Muntaha Fatima**  
 
-🌸 *Frontend Developer passionate about clean code and intuitive UI/UX design.*
-
----
-
-## 🔧 Tech Stack
-
-- ⚛️ **React**, **Next.js**
-- 🎨 **Tailwind CSS**, **CSS3**
-- 💻 Git & GitHub
+🌸 **A passionate Frontend Developer** with an eye for beautiful, clean code and a deep love for user-centered design. 🚀
 
 ---
 
-## 🌱 *Currently Learning*
+## 🔧 **Tech Stack**
 
-1. 📘 **TypeScript**
-2. ✨ **Framer Motion**
-3. 🎯 UX Thinking
+- ⚛️ **React** | **Next.js** | **TypeScript**
+- 🎨 **Tailwind CSS** | **CSS3** | **HTML5**
+- 💻 **Git** | **GitHub** | **Version Control**
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 **Currently Learning**
+
+1. 📘 **TypeScript**: Diving deeper into types, interfaces, and patterns.
+2. ✨ **Framer Motion**: Creating smooth animations for engaging interactions.
+3. 🎯 **UX Thinking**: Building intuitive, user-first experiences.
+
+---
+
+## 📈 **GitHub Stats**
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical)
 
 ---
 
-### Contact
+## 🔗 **Let's Connect**
 
-- 📧 Email: [shazsabir6@gmail.com](mshazsabir6@gmaile.com)
-- 🌐 Portfolio: [www.muntahaf.com](https://www.muntahaf.com)
-
-- LinkedIn: [linkedin.com/in/seeratfatima](https://linkedin.com)
+- 📧 **Email**: [muntaha@example.com](mailto:muntaha@example.com)  
+- 🌐 **Portfolio**: [muntahaf.com](https://www.muntahaf.com)  
+- 🐦 **Twitter**: [@muntahaf](https://twitter.com/muntahaf)
 
 ---
 
-Thanks for dropping by! ☕✨
-
-muntaha-fatima/muntaha-fatima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ *"Building the future of web development, one line of code at a time."*
