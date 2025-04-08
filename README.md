@@ -1,4 +1,4 @@
-# 👋 Hello, I'm **Muntaha Fatima**
+# 👋 Hello, I'm **Seerat Fatima**
 
 🌸 *Frontend Developer passionate about clean code and intuitive UI/UX design.*
 
