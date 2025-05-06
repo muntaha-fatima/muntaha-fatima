@@ -1,3 +1,5 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
+
 # 👋 *Hey there! I'm Seerat Fatima*  
 
 🌸 **A passionate Frontend Developer** with an eye for beautiful, clean code and a deep love for user-centered design. 🚀
