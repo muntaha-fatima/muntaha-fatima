@@ -1,9 +1,10 @@
 
 <!-- Banner -->
 <p align="center">
-![Banner](https://your-image-url.com/banner.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical)
 
-)
+
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Muntaha Fatima</h1>
