@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="A_GitHub_profile_banner_in_digital_2D_graphic_desi.png" alt="Banner" />
+  <img src="A_GitHub_muntaha_fatima_in_digital_2D_graphic_desi.png" alt="Banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Muntaha Fatima</h1>
