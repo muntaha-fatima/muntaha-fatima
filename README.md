@@ -37,6 +37,9 @@
 ![My Stats](https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical)
 
 ---
+![Javeria's GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical)
+![Javeria's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=muntaha-fatima&theme=radical)
+
 
 ## 🔗 **Let's Connect**
 
