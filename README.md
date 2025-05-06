@@ -1,45 +1,56 @@
 
-![Snake animation](https://github.com/muntaha-fatima/muntaha-fatima/blob/output/github-contribution-grid-snake.svg)
+<!-- Banner -->
+<p align="center">
+  <img src="A_GitHub_profile_banner_in_digital_2D_graphic_desi.png" alt="Banner" />
+</p>
 
-# 👋 *Hey there! I'm Seerat Fatima*  
+<h1 align="center">Hi 👋, I'm Muntaha Fatima</h1>
 
-🌸 **A passionate Frontend Developer** with an eye for beautiful, clean code and a deep love for user-centered design. 🚀
+<p align="center">
+🌸 A passionate frontend developer who loves clean UIs and creative code  
+💡 Currently exploring TypeScript, animations & design  
+💻 Building projects in React, Next.js & Tailwind CSS  
+</p>
 
 ---
+
+### 🚀 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-## 🔧 **Tech Stack**
-
-- ⚛️ **React** | **Next.js** | **TypeScript**
-- 🎨 **Tailwind CSS** | **CSS3** | **HTML5**
-- 💻 **Git** | **GitHub** | **Version Control**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntaha-fatima&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-## 🌱 **Currently Learning**
+---
 
-1. 📘 **TypeScript**: Diving deeper into types, interfaces, and patterns.
-2. ✨ **Framer Motion**: Creating smooth animations for engaging interactions.
-3. 🎯 **UX Thinking**: Building intuitive, user-first experiences.
+### 🎯 Current Goals
+
+- Build more projects with real-world UIs
+- Learn advanced animation (Framer Motion)
+- Create my own component library
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
+### 🐍 GitHub Contribution Snake (Optional)
 
-## 📈 **GitHub Stats**
+> Add this only if you set up the snake workflow.
 
-
-
----
-![seerat fatima GitHub stats](https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical)
-![seerat fataima GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=muntaha-fatima&theme=radical)
+```markdown
+![Snake animation](https://github.com/muntaha-fatima/muntaha-fatima/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🔗 **Let's Connect**
