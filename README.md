@@ -1,4 +1,5 @@
 
+![Snake animation](https://github.com/muntaha-fatima/muntaha-fatima/blob/output/github-contribution-grid-snake.svg)
 
 # 👋 *Hey there! I'm Seerat Fatima*  
 
