@@ -1,7 +1,7 @@
 
 <!-- Banner -->
 <p align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical)
+ <img src="A_GitHub_profile_banner_in_digital_2D_graphic_desi.png" alt="Banner Image" />
 
 
 
