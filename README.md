@@ -14,6 +14,9 @@
 
 ---
 
+![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
+
 ## 🌱 **Currently Learning**
 
 1. 📘 **TypeScript**: Diving deeper into types, interfaces, and patterns.
