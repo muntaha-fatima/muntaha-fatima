@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
+
 
 # 👋 *Hey there! I'm Seerat Fatima*  
 
@@ -21,6 +21,8 @@
 3. 🎯 **UX Thinking**: Building intuitive, user-first experiences.
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
 
 ## 📈 **GitHub Stats**
 
