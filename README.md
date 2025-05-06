@@ -1,7 +1,8 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="A_GitHub_muntaha_fatima_in_digital_2D_graphic_desi.png" alt="Banner" />
+ [ <img src="A_GitHub_muntaha_fatima_in_digital_2D_graphic_desi.png" alt="Banner" />](https://github-readme-stats.vercel.app/api?username=muntaha-fatima...
+)
 </p>
 
 <h1 align="center">Hi 👋, I'm Muntaha Fatima</h1>
