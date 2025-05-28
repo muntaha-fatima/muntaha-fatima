@@ -58,9 +58,9 @@
 
 ## 🔗 **Let's Connect**
 
-- 📧 **Email**: [muntaha@example.com](mailto:muntaha@example.com)  
-- 🌐 **Portfolio**: [muntahaf.com](https://www.muntahaf.com)  
-- 🐦 **Twitter**: [@muntahaf](https://twitter.com/muntahaf)
+- 📧 **Email**: shazsabir6@gmail.com 
+- 🌐 **Portfolio**: https://professional-portfolio-khaki.vercel.app/
+- 🐦 **Linkdin**:https://www.linkedin.com/in/seerat-fatima-9281892b6/
 
 ---
 
