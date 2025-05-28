@@ -58,9 +58,9 @@
 
 ## 🔗 **Let's Connect**
 
-- 📧 **Email**: shazsabir6@gmail.com 
-- 🌐 **Portfolio**: https://professional-portfolio-khaki.vercel.app/
-- 🐦 **Linkdin**:https://www.linkedin.com/in/seerat-fatima-9281892b6/
+- 📧 **Email**: (shazsabir6@gmail.com )
+- 🌐 **Portfolio**: (https://professional-portfolio-khaki.vercel.app/)
+- 🐦 **Linkdin**: (https://www.linkedin.com/in/seerat-fatima-9281892b6/)
 
 ---
 
