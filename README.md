@@ -32,18 +32,15 @@
 </p>
 
 
----
-### 📈 A+ GitHub Stats
+---### 📈 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical&include_all_commits=true&rank_icon=percentile&custom_title=✨ Seerat Fatima's GitHub Stats ✨" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=muntaha-fatima&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntaha-fatima&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
 
 ---
 
