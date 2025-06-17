@@ -35,7 +35,8 @@
 ---### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical&rank_icon=percentile&custom_title" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical&rank_icon=percentile&custom_title=✨ Seerat Fatima's GitHub Stats ✨&include_all_commits=true" />
+
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntaha-fatima&theme=radical" alt="GitHub Streak" />
   <br/>
