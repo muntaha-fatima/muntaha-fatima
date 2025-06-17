@@ -65,3 +65,5 @@ const seeratFatima = {
   currentlyLearning: "AI + Frontend Integration",
   funFact: "I can turn coffee ☕ into beautiful UIs 🎨"
 }
+![Snake animation](https://github.com/muntaha-fatima/muntaha-fatima/blob/output/github-contribution-grid-snake.svg)
+
