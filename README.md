@@ -36,12 +36,17 @@
 
 ### 📈 GitHub Stats
 
+### 📊 GitHub Insights
+
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false&include_all_commits=true&custom_title=✨ Seerat Fatima's GitHub Stats ✨" width="50%" alt="GitHub Stats" />  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntaha-fatima&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=false&include_all_commits=true&custom_title=✨ Seerat Fatima's GitHub Stats ✨" width="50%" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muntaha-fatima&theme=tokyonight&hide_border=false" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=tokyonight&hide_border=false" width="48%" alt="Top Languages" />
+</p>
+
 
 ---
 
