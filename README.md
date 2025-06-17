@@ -62,14 +62,13 @@
 
 ---
 
-### 💖 A Little More About Me
 
-```js
-const seeratFatima = {
-  code: ["HTML", "CSS", "JavaScript", "TypeScript"],
-  tools: ["React", "Next.js", "Tailwind", "Sanity", "Framer Motion"],
-  currentlyLearning: "AI + Frontend Integration",
-  funFact: "I can turn coffee ☕ into beautiful UIs 🎨"
-}
-![Snake animation](https://github.com/muntaha-fatima/muntaha-fatima/blob/output/github-contribution-grid-snake.svg)
+## 🔗 **Let's Connect**
 
+- 📧 **Email**: (shazsabir6@gmail.com )
+- 🌐 **Portfolio**: (https://professional-portfolio-khaki.vercel.app/)
+- 🐦 **Linkdin**: (https://www.linkedin.com/in/seerat-fatima-9281892b6/)
+
+---
+
+✨ *"Building the future of web development
