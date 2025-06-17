@@ -1,5 +1,9 @@
 <!-- Banner -->
 <p align="center">
+  <img src="232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="GIF Banner" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer+%E2%9C%A8;React+%2F+Next.js+%2F+Tailwind+Lover;Bringing+Designs+to+Life+%F0%9F%92%8E" alt="Typing SVG" />
 </p>
 
