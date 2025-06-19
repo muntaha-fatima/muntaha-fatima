@@ -9,6 +9,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F793C2&center=true&vCenter=true&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Seerat+Fatima" alt="Typing SVG" /> 
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
+</p>
 
 <p align="center">
 🌸 A passionate frontend developer who loves clean UIs and creative code  
@@ -90,9 +93,6 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F769A2&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Seerat+Fatima;Frontend+Dev+Who+Loves+Creative+Code+💻;Built+with+React+and+Tailwind+Magic!" />
