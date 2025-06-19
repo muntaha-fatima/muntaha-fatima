@@ -71,9 +71,8 @@
 
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=muntaha-fatima&theme=radical&rank=SECRET,SSS,SS,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
 
