@@ -71,7 +71,7 @@
 
 ---
 
-![Snake animation](https://github.com/muntaha-fatima/muntaha-fatima/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/muntaha-fatima/muntaha-fatima/blob/output/github-contribution-grid-snake.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
 
