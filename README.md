@@ -94,11 +94,6 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
 </p>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Seerat+Fatima;Frontend+Dev+Who+Loves+Creative+Code+💻;Bringing+Ideas+to+Life+with+React+%26+Tailwind!" />
 </p>
