@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-<img src="https://svgshare.com/i/uNw.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg" width="100%" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
