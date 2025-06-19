@@ -72,7 +72,7 @@
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical&rank_icon=percentile" />
-
+![GitHub followers](https://img.shields.io/github/followers/muntaha-fatima?label=Follow&style=social)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
 
 ✨ *"Building the future of web development
