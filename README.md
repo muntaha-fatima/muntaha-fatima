@@ -72,7 +72,9 @@
 ---
 
 
-![GitHub followers](https://img.shields.io/github/followers/muntaha-fatima?label=Follow&style=social)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
 
 ✨ *"Building the future of web development
