@@ -82,21 +82,4 @@
 
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jRfCjOQj2WY0K/giphy.gif" width="400" />
-</p>
-
-
-
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F769A2&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Seerat+Fatima;Frontend+Dev+Who+Loves+Creative+Code+💻;Built+with+React+and+Tailwind+Magic!" />
-</p>
-
-
 ✨ *"Building the future of web development
