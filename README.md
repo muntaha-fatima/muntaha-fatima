@@ -76,4 +76,9 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=muntaha-fatima&color=blue)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
+
+
 ✨ *"Building the future of web development
