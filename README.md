@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&height=60&lines=Hi+%F0%9F%91%8B+I'm+Seerat+Fatima;Frontend+Developer+%F0%9F%92%BB;Loves+Clean+UIs+%26+Creative+Code" />
+<img src="https://svgshare.com/i/uNw.svg" width="100%" />
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muntaha-fatima&layout=compact&theme=radical)
