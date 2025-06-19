@@ -106,6 +106,9 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" />
+</p>
 
 
 ✨ *"Building the future of web development
