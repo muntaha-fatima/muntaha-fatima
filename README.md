@@ -71,4 +71,8 @@
 
 ---
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=muntaha-fatima&show_icons=true&theme=radical&rank_icon=percentile" />
+
+
 ✨ *"Building the future of web development
